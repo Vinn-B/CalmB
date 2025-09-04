@@ -1,0 +1,5 @@
+---
+title: "maps"
+---
+
+Where I want to put examples of Maps made in either GIS or R and such?

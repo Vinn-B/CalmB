@@ -2,10 +2,7 @@
 ---
 ---
 title: "Geo-spatial Analysis / GIS Portfolio"
-listing:
-  contents: Maps Images
-  type: grid
-  fields: [image, title, description]
 ---
 
 I am a Geo-spatial Researcher with 1 year of experience after graduating in 2025. My researched has inf school pertained looking into pawpaw as a solution for rural food insecurity and post grad working under the USFD on building models for
+

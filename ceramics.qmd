@@ -1,11 +1,11 @@
 ---
 title: "Ceramic Work"
-resources: 
+resources:
   - Cal_Resume_Site.pdf
+lightbox: true
 about:
-  # options trestles, jolla, solana, marquee, broadside
   template: jolla
-  image: Ceramic images/Little_Guy.jpg
+  image: ceramic_images/Little_Guy.jpg
   links:
     - icon: file-earmark-pdf
       text: Resume
@@ -22,5 +22,24 @@ Beginning as a hobby I have stuck with the medium. I was able to work as a Ceram
 In practice my art focuses on function over design. I hope to get further into mixed media elements potentially combining carpentry, and electrical lighting into my art.
 
 # Gallery
+
+```{r}
+#| echo: false
+#| output: asis
+
+imgs <- list.files(
+  "ceramic_images",
+  pattern = "\\.(jpe?g|png)$",
+  ignore.case = TRUE,
+  full.names = TRUE
+)
+
+cat("::: {layout-ncol=3}\n\n")
+for (f in imgs) {
+  label <- gsub("_", " ", tools::file_path_sans_ext(basename(f)))
+  cat(sprintf("![%s](%s){fig-alt=\"%s\"}\n\n", label, f, label))
+}
+cat(":::\n")
+```
 
 

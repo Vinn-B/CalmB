@@ -22,11 +22,22 @@
 }
 
 body {
-	background-color: #F5F1E8;
-	color: #8C7C62;
+  background-color: #1A1612;
+  color: #8C7C62;
+}
 
-	[data-scheme='dark'] & {
-		background-color: #8C7C62;
-		color: #F5F1E8;
-	}
+h1, h2, h3, h4 {
+  color: #C9B88F;   /* lighter tan for headings */
+}
+
+a {
+  color: #7FB3A0;   /* light sage, echoes the navbar */
+}
+
+a:hover {
+  color: #A8D0C0;
+}
+
+figcaption, .figure-caption {
+  color: #8C7C62;
 }

@@ -3,21 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Calvin Bailey"
+  title: "Calvin M. Bailey"
+  favicon: Untitled-drawing.ico
   navbar:
-    background: "#BE6E46"
+    background: "#628C7C"
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
-      - href: ceramics.qmd
-        text: Ceramics
       - href: maps.qmd
         text: Maps
-      - href: about.qmd
-        text: About
-
+      - href: ceramics.qmd
+        text: Ceramics
 format:
   html:
     theme:
@@ -25,6 +21,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 editor: visual
 

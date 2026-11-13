@@ -1,11 +1,21 @@
 ---
-title: "CalmB"
+title: "About"
+resources: 
+  - Cal_Resume_Site.pdf
+about:
+  template: trestles
+  image: images/Cal_Washington.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:calm.bailey13@gmail.com
+    - icon: file-earmark-pdf
+      text: Resume
+      href: Cal_Resume_Site.pdf
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-
-```
+After graduating from Denison University with a major in Data Analytics and German. My most recent post was working as a Database Manager for Maine Sport Outfitters a small outdoor retailer in the mid-coast of Maine. Living about an hour and a half south has given me access to the White Mountains as well as coastal islands and Camden Hills State Park to further build skills in climbing and move towards ice climbing and mountaineering. In between graduation and my most recent post I worked at Bucknell University as a Forestry Data Science Fellow. Where I further built skills in Geo-spatial Analysis and connected with the (FIA) Forest Inventory and Analysis program under the USFS. I am very interested in roles pertaining to similar work and using my skills in Geo-spatial Analysis and GIS.

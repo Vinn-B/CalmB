@@ -2,30 +2,30 @@
   {
     "objectID": "maps.html",
     "href": "maps.html",
-    "title": "maps",
+    "title": "Geo-spatial Analysis / GIS Portfolio",
     "section": "",
-    "text": "Where I want to put examples of Maps made in either GIS or R and such?"
+    "text": "I am a Geo-spatial Researcher with 1 year of experience after graduating in 2025. My researched has inf school pertained looking into pawpaw as a solution for rural food insecurity and post grad working under the USFD on building models for"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "CalmB",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "After graduating from Denison University with a major in Data Analytics and German. My most recent post was working as a Database Manager for Maine Sport Outfitters a small outdoor retailer in the mid-coast of Maine. Living about an hour and a half south has given me access to the White Mountains as well as coastal islands and Camden Hills State Park to further build skills in climbing and move towards ice climbing and mountaineering. In between graduation and my most recent post I worked at Bucknell University as a Forestry Data Science Fellow. Where I further built skills in Geo-spatial Analysis and connected with the (FIA) Forest Inventory and Analysis program under the USFS. I am very interested in roles pertaining to similar work and using my skills in Geo-spatial Analysis and GIS."
   },
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "research",
+    "title": "Research",
     "section": "",
     "text": "UFDS, Pawpaw-ssible Solutions to Rural Food Insecurity"
   },
   {
     "objectID": "ceramics.html",
     "href": "ceramics.html",
-    "title": "ceramics",
+    "title": "Ceramic Work",
     "section": "",
-    "text": "Ceramics Is a passion but something I would also be willing to do work for If I could get that set up."
+    "text": "Beginning as a hobby I have stuck with the medium. I was able to work as a Ceramic Studio Technician / Teachers Assistant at Denison University, working under Professor Justin Coleman and Head Studio Tech Shahid Khan I learned to mix clays and glazes as well as fix electrical or mechanical issues with our kilns, wheels or mixers. I would be grateful for the opportunity to get into a similar position in the future.\nIn practice my art focuses on function over design. I hope to get further into mixed media elements potentially combining carpentry, and electrical lighting into my art.\n\nGallery"
   },
   {
     "objectID": "about.html",
@@ -33,5 +33,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#calvin-m.-bailey",
+    "href": "index.html#calvin-m.-bailey",
+    "title": "CalmB",
+    "section": "",
+    "text": "Print(Hello World!)\nAfter graduating from Denison University with a major in Data Analytics and German.My most recent post was working as a Database Manager for Maine Sport Outfitters a small outdoor retailer in the midcoast of Maine. Living about an hour and a half south has given me access to the White mountains as well as coastal islands and camden hills state park to further build skills in climbing and move towards ice climbing and mountaineering. In between graduation and my most recent post I worked at Bucknell University as a Forestry Data Science Fellow. Where I further built skills in Geospatial Analysis and connected with the (FIA) Forest Inventory and Analysis program under the USFS. I am very interested in roles pertaining to similar work and using my skills in Geospatial Analysis and GIS."
+  },
+  {
+    "objectID": "ceramics.html#pottery-work",
+    "href": "ceramics.html#pottery-work",
+    "title": "Art",
+    "section": "",
+    "text": "Starting as a hobby I have found myself sticking with ceramics, wokring as a Ceramic Studio Technician / Teachers Assistant at Denison University I learned to mix clay and Glazes. I also had the opportunity to learn under the Departments Head Studio Technician where we practiced fixing Electrical Issues with Kilns and Wheels, as well as mechanical issues with clay mixers.\nIn practice I am a functional focused artist, mainly making plates, bowls, and Cups. I hope to get farther into trowing vases and potentially mixing in some electrical / light fixture elements into my work.\n![]"
   }
 ]

@@ -2,9 +2,9 @@
   {
     "objectID": "maps.html",
     "href": "maps.html",
-    "title": "Geo-spatial Analysis / GIS Portfolio",
+    "title": "Geospatial Analysis / GIS Portfolio",
     "section": "",
-    "text": "I am a Geo-spatial Researcher with 1 year of experience after graduating in 2025. My researched has inf school pertained looking into pawpaw as a solution for rural food insecurity and post grad working under the USFD on building models for"
+    "text": "I’m a geospatial analyst with a B.A. in Data Analytics from Denison University. My capstone used GIS suitability modeling to evaluate pawpaw as a solution for rural food insecurity. As a research fellow at Bucknell University, I evaluated small area estimation models for the U.S. Forest Service’s Forest Inventory and Analysis (FIA) program. Below are selected maps from my GIS coursework (EESC 234: Applied GIS for Earth and Environmental Science), with the purpose of each and the skills and tools behind it."
   },
   {
     "objectID": "index.html",
@@ -25,7 +25,7 @@
     "href": "ceramics.html",
     "title": "Ceramic Work",
     "section": "",
-    "text": "Beginning as a hobby I have stuck with the medium. I was able to work as a Ceramic Studio Technician / Teachers Assistant at Denison University, working under Professor Justin Coleman and Head Studio Tech Shahid Khan I learned to mix clays and glazes as well as fix electrical or mechanical issues with our kilns, wheels or mixers. I would be grateful for the opportunity to get into a similar position in the future.\nIn practice my art focuses on function over design. I hope to get further into mixed media elements potentially combining carpentry, and electrical lighting into my art.\n\nGallery\n\n\n\n\n\n\n\n\nBlue Pair\n\n\n\n\n\n\n\nBoulder Pinch\n\n\n\n\n\n\n\nCoasters\n\n\n\n\n\n\n\n\n\nDisaster\n\n\n\n\n\n\n\nGreen Pair\n\n\n\n\n\n\n\nLittle Guy\n\n\n\n\n\n\n\n\n\nPXL 20211215 231451740.PORTRAIT~2\n\n\n\n\n\n\n\nPXL 20211215 231835278.PORTRAIT~2\n\n\n\n\n\n\n\nPXL 20221019 194728600\n\n\n\n\n\n\n\n\n\nPXL 20221023 152650341.MP\n\n\n\n\n\n\n\nShow\n\n\n\n\n\n\n\nTeapot\n\n\n\n\n\n\n\n\n\nTraingle side\n\n\n\n\n\n\n\nTriangle Front\n\n\n\n\n\n\n\nVase"
+    "text": "Beginning as a hobby I have stuck with the medium. I was able to work as a Ceramic Studio Technician / Teachers Assistant at Denison University, working under Professor Justin Coleman and Head Studio Tech Shahid Khan I learned to mix clays and glazes as well as fix electrical or mechanical issues with our kilns, wheels or mixers. I would be grateful for the opportunity to get into a similar position in the future.\nIn practice my art focuses on function over design. I hope to get further into mixed media elements potentially combining carpentry, and electrical lighting into my art.\n\nGallery\n\n\n\n\n\n\n\n\nBlue Glaze Pair\n\n\n\n\n\n\n\nCoasters\n\n\n\n\n\n\n\nGreen Pair\n\n\n\n\n\n\n\n\n\nOiled Tulip\n\n\n\n\n\n\n\nOrganic Boulder Pinch Pots\n\n\n\n\n\n\n\nSandpaper Bowl\n\n\n\n\n\n\n\n\n\nShow Pieces\n\n\n\n\n\n\n\nSpouted Dish\n\n\n\n\n\n\n\nTea Cauldron\n\n\n\n\n\n\n\n\n\nTextured Vase\n\n\n\n\n\n\n\nTraingle\n\n\n\n\n\n\n\nWasted Cone"
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,54 @@
     "title": "Art",
     "section": "",
     "text": "Starting as a hobby I have found myself sticking with ceramics, wokring as a Ceramic Studio Technician / Teachers Assistant at Denison University I learned to mix clay and Glazes. I also had the opportunity to learn under the Departments Head Studio Technician where we practiced fixing Electrical Issues with Kilns and Wheels, as well as mechanical issues with clay mixers.\nIn practice I am a functional focused artist, mainly making plates, bowls, and Cups. I hope to get farther into trowing vases and potentially mixing in some electrical / light fixture elements into my work.\n![]"
+  },
+  {
+    "objectID": "maps.html#pawpaw-suitability-analysis",
+    "href": "maps.html#pawpaw-suitability-analysis",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Pawpaw Suitability Analysis",
+    "text": "Pawpaw Suitability Analysis\n\n\n\nPurpose: [What question does this map answer, and who would use it?]\nSkills shown: [e.g., multi-criteria suitability modeling, raster analysis, cartographic design]\nTools: ArcGIS Pro [add Spatial Analyst, ModelBuilder, etc.]\nData: [sources]\nOpen full-size PDF"
+  },
+  {
+    "objectID": "maps.html#second-map-title",
+    "href": "maps.html#second-map-title",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Second Map Title",
+    "text": "Second Map Title\n\n\n\nPurpose: …\nSkills shown: …\nTools: …"
+  },
+  {
+    "objectID": "maps.html#lab-1-green-river-timeline-trace",
+    "href": "maps.html#lab-1-green-river-timeline-trace",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Lab 1: Green River Timeline Trace",
+    "text": "Lab 1: Green River Timeline Trace\n\n\n\nPurpose: [What question does this map answer?]\nSkills shown: [e.g., spatial joins, georeferencing, symbology, cartographic design]\nTools: ArcGIS Pro\nData: [sources]\nOpen full-size PDF"
+  },
+  {
+    "objectID": "maps.html#lab-2-map-title",
+    "href": "maps.html#lab-2-map-title",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Lab 2: [Map Title]",
+    "text": "Lab 2: [Map Title]\n\n\n\nPurpose: …\nSkills shown: …\nTools: …\nData: …\nOpen full-size PDF"
+  },
+  {
+    "objectID": "maps.html#lab-3-map-title",
+    "href": "maps.html#lab-3-map-title",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Lab 3: [Map Title]",
+    "text": "Lab 3: [Map Title]\n\n\n\nPurpose: …\nSkills shown: …\nTools: …\nData: …\nOpen full-size PDF"
+  },
+  {
+    "objectID": "maps.html#lab-4-map-title",
+    "href": "maps.html#lab-4-map-title",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Lab 4: [Map Title]",
+    "text": "Lab 4: [Map Title]\n\n\n\nPurpose: …\nSkills shown: …\nTools: …\nData: …\nOpen full-size PDF"
+  },
+  {
+    "objectID": "maps.html#lab-5-map-title",
+    "href": "maps.html#lab-5-map-title",
+    "title": "Geospatial Analysis / GIS Portfolio",
+    "section": "Lab 5: [Map Title]",
+    "text": "Lab 5: [Map Title]\n\n\n\nPurpose: …\nSkills shown: …\nTools: …\nData: …\nOpen full-size PDF"
   }
 ]

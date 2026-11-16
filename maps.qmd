@@ -1,8 +1,101 @@
 ---
----
----
-title: "Geo-spatial Analysis / GIS Portfolio"
+title: "Geospatial Analysis / GIS Portfolio"
+resources:
+  - Maps_Images/*.pdf
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-I am a Geo-spatial Researcher with 1 year of experience after graduating in 2025. My researched has inf school pertained looking into pawpaw as a solution for rural food insecurity and post grad working under the USFD on building models for
+I'm a geospatial analyst with a B.A. in Data Analytics from Denison University. My capstone used GIS suitability modeling to evaluate pawpaw as a solution for rural food insecurity. As a research fellow at Bucknell University, I evaluated small area estimation models for the U.S. Forest Service's Forest Inventory and Analysis (FIA) program. Below are selected maps from my GIS coursework (EESC 234: Applied GIS for Earth and Environmental Science), with the purpose of each and the skills and tools behind it.
 
+## Lab 1: Green River Timeline Trace
+
+<iframe class="pdf-frame" src="Maps_Images/GreenRiver copy.pdf#view=Fit&amp;navpanes=0">
+
+</iframe>
+
+::: map-notes
+**Purpose:** \[What question does this map answer?\]
+
+**Skills shown:** \[e.g., spatial joins, georeferencing, symbology, cartographic design\]
+
+**Tools:** ArcGIS Pro
+
+**Data:** \[sources\]
+
+[Open full-size PDF](Maps_Images/GreenRiver.pdf){target="_blank"}
+:::
+
+## Lab 2: \[Map Title\]
+
+<iframe class="pdf-frame" src="Maps_Images/Chloropleth.pdf#view=Fit&amp;navpanes=0">
+
+</iframe>
+
+::: map-notes
+**Purpose:** ...
+
+**Skills shown:** ...
+
+**Tools:** ...
+
+**Data:** ...
+
+[Open full-size PDF](Maps_Images/Chloropleth.pdf){target="_blank"}
+:::
+
+## Lab 3: \[Map Title\]
+
+<iframe class="pdf-frame" src="Maps_Images/TechniqueComp.pdf#view=Fit&amp;navpanes=0">
+
+</iframe>
+
+::: map-notes
+**Purpose:** ...
+
+**Skills shown:** ...
+
+**Tools:** ...
+
+**Data:** ...
+
+[Open full-size PDF](Maps_Images/TechniqueComp.pdf){target="_blank"}
+:::
+
+## Lab 4: \[Map Title\]
+
+<iframe class="pdf-frame" src="Maps_Images/GISfinal.pdf#view=Fit&amp;navpanes=0">
+
+</iframe>
+
+::: map-notes
+**Purpose:** ...
+
+**Skills shown:** ...
+
+**Tools:** ...
+
+**Data:** ...
+
+[Open full-size PDF](Maps_Images/GISfinal.pdf){target="_blank"}
+:::
+
+## Lab 5: \[Map Title\]
+
+<iframe class="pdf-frame" src="Maps_Images/DEM_TEST.pdf#view=Fit&amp;navpanes=0">
+
+</iframe>
+
+::: map-notes
+**Purpose:** ...
+
+**Skills shown:** ...
+
+**Tools:** ...
+
+**Data:** ...
+
+[Open full-size PDF](Maps_Images/DEM_TEST.pdf){target="_blank"}
+:::

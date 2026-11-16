@@ -5,7 +5,7 @@ resources:
 lightbox: true
 about:
   template: jolla
-  image: ceramic_images/Little_Guy.jpg
+  image: Images/Little_Guy.jpg
   links:
     - icon: file-earmark-pdf
       text: Resume

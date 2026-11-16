@@ -41,3 +41,15 @@ a:hover {
 figcaption, .figure-caption {
   color: #8C7C62;
 }
+
+.pdf-frame {
+  width: 100%;
+  height: 85vh;
+  min-height: 550px;
+  border: 1px solid #3A3028;
+  border-radius: 4px;
+}
+
+.map-notes {
+  margin: 1rem 0 3rem 0;
+}
